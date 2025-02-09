@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\deneme2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\deneme2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\banner.jpg",
+      "PackagePath": "staticwebassets\\image\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\banner1.jpg",
+      "PackagePath": "staticwebassets\\image\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\banner2.jpg",
+      "PackagePath": "staticwebassets\\image\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\büst.JPG",
+      "PackagePath": "staticwebassets\\image\\büst.JPG"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\cezaevi.JPG",
+      "PackagePath": "staticwebassets\\image\\cezaevi.JPG"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\cezaevi1.jpeg",
+      "PackagePath": "staticwebassets\\image\\cezaevi1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\esi.jpeg",
+      "PackagePath": "staticwebassets\\image\\esi.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\esya.jpg",
+      "PackagePath": "staticwebassets\\image\\esya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\evi.jpg",
+      "PackagePath": "staticwebassets\\image\\evi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto1.jpg",
+      "PackagePath": "staticwebassets\\image\\foto1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto10.jpg",
+      "PackagePath": "staticwebassets\\image\\foto10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto11.jpg",
+      "PackagePath": "staticwebassets\\image\\foto11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto12.jpg",
+      "PackagePath": "staticwebassets\\image\\foto12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto13.jpeg",
+      "PackagePath": "staticwebassets\\image\\foto13.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto14.jpg",
+      "PackagePath": "staticwebassets\\image\\foto14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto15.jpg",
+      "PackagePath": "staticwebassets\\image\\foto15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto16.jpg",
+      "PackagePath": "staticwebassets\\image\\foto16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto17.jpg",
+      "PackagePath": "staticwebassets\\image\\foto17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto18.jpg",
+      "PackagePath": "staticwebassets\\image\\foto18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto19.jpeg",
+      "PackagePath": "staticwebassets\\image\\foto19.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto2.jpg",
+      "PackagePath": "staticwebassets\\image\\foto2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto20.jpg",
+      "PackagePath": "staticwebassets\\image\\foto20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto21.jpeg",
+      "PackagePath": "staticwebassets\\image\\foto21.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto22.jpg",
+      "PackagePath": "staticwebassets\\image\\foto22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto23.jpg",
+      "PackagePath": "staticwebassets\\image\\foto23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto3.jpg",
+      "PackagePath": "staticwebassets\\image\\foto3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto4.jpg",
+      "PackagePath": "staticwebassets\\image\\foto4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto5.jpg",
+      "PackagePath": "staticwebassets\\image\\foto5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto6.jpg",
+      "PackagePath": "staticwebassets\\image\\foto6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto7.jpg",
+      "PackagePath": "staticwebassets\\image\\foto7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto8.jpg",
+      "PackagePath": "staticwebassets\\image\\foto8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\foto9.jpg",
+      "PackagePath": "staticwebassets\\image\\foto9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\instagram.jpg",
+      "PackagePath": "staticwebassets\\image\\instagram.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\kogus.jpg",
+      "PackagePath": "staticwebassets\\image\\kogus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\linkedin.jpg",
+      "PackagePath": "staticwebassets\\image\\linkedin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\mezari.jpg",
+      "PackagePath": "staticwebassets\\image\\mezari.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\image\\youtube.jpg",
+      "PackagePath": "staticwebassets\\image\\youtube.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\deneme2\\deneme2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.deneme2.props",
+      "PackagePath": "build\\deneme2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.deneme2.props",
+      "PackagePath": "buildMultiTargeting\\deneme2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.deneme2.props",
+      "PackagePath": "buildTransitive\\deneme2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.deneme2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\deneme2\deneme2\obj\Release\net8.0\PubTmp\Out\deneme2.exe
+C:\Users\LENOVO\source\repos\deneme2\deneme2\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\LENOVO\source\repos\deneme2\deneme2\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\LENOVO\source\repos\deneme2\deneme2\obj\Release\net8.0\PubTmp\Out\deneme2.dll
+C:\Users\LENOVO\source\repos\deneme2\deneme2\obj\Release\net8.0\PubTmp\Out\deneme2.deps.json
+C:\Users\LENOVO\source\repos\deneme2\deneme2\obj\Release\net8.0\PubTmp\Out\deneme2.runtimeconfig.json
+C:\Users\LENOVO\source\repos\deneme2\deneme2\obj\Release\net8.0\PubTmp\Out\deneme2.pdb

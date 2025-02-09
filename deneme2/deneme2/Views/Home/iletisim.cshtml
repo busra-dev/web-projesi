@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    @{
+        ViewData["Title"] = "Sabahattin Ali - İletişim";
+    }
+  <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    </body>
+</html>
+
+@{
+    ViewData["Title"] = "Sabahattin Ali / İletişim";
+}
+
+<div class="formbaslik">
+     <div class="e_metin">Ziyaretçi İletişim Formu</div>
+</div>
+<center>
+    <div class="zform">
+        <form action="form" method="POST" name="form">
+            <div class="form-grup">
+    <label for="name">Adı Soyad</label>
+    <input type="text" id="name" name="ad" placeholder="Adınızı ve soyadınızı giriniz" required>
+    <br><br>
+</div>
+            <div class="form-grup">
+    <label for="name">E-Mail</label>
+    <input type="text" id="name" name="email" placeholder="E-Mail giriniz" required>
+    <br><br>
+</div>
+<div class="form-grup">
+    <label for="name">Konu</label>
+    <input type="text" id="name" name="konu" placeholder="Konu giriniz" required>
+    <br><br>
+</div>
+<div class="form-grup">
+    <label for="name">İleti</label>
+    <input type="text" id="name" name="ileti" placeholder="Görüşlerinizi giriniz" required>
+    <br><br>
+            <div class="form-buttons">
+                <button type="submit">Gönder</button>
+            </div>
+
+        </form>
+    </div>
+</center>

@@ -1,0 +1,615 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    overflow-x: hidden; /* Yatay taþmayý gizler */
+}
+
+.menu {
+    list-style: none;
+    margin: 10px;
+    padding: 40px;
+    display: flex;
+    padding-left: 35px;
+    justify-content: center;
+    gap: 10px;
+}
+
+
+    .menu li {
+        margin: 0 15px;
+    }
+
+    .menu a {
+        color: #ffffff;
+        text-decoration: none;
+        font-size: 20px;
+        padding: 10px 8px;
+        border-radius: 5px;
+        display: flex;
+        padding-left: 50px;
+    }
+
+        .menu a:hover {
+            opacity: 0.5;
+            color: #c20909;
+        }
+
+.ustbar {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    top: 0px;
+    text-align: center;
+    position: fixed;
+    z-index: 1000;
+    margin: 0px;
+    background-color: rgba(0, 0, 0, 0.7); /* Siyah ama açýk ton (70% opak) */
+}
+
+    .ustbar h1 {
+        font-family: 'Arial Rounded MT';
+        font-size: 30px;
+        font-weight: bold;
+        color: #ffffff;
+        text-align: center;
+        position: absolute;
+        top: 15%;
+        left: 50%; /* Geniþliðin %50'sine yerleþtir */
+        transform: translate(-50%, -50%);
+    }
+
+
+.banner {
+    width: 100%;
+    height: 350px;
+    margin-top: 100px;
+}
+
+    .banner img {
+        width: 100%;
+        height: 350px;
+        margin-bottom: 0px;
+    }
+
+.foto {
+    display: flex;
+    width: 100%;
+    height: 380px;
+    gap: 20px;
+    object-fit: cover; /* Fotoðraflarý kesmeden hizalar */
+}
+
+    .foto img {
+        width: 600px;
+        height: 350px;
+        border-radius: 6px;
+    }
+
+.metin {
+    margin: 30px;
+    width: 380px;
+    height: 420px;
+    padding: 5px;
+    padding-left: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.b_metin {
+    text-align: left;
+    margin-left: 100px;
+}
+
+    .b_metin p {
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+.b_foto5 {
+    height: 350px;
+    width: 350px;
+}
+
+    .b_foto5 img {
+        height: 350px;
+        width: 500px;
+    }
+
+.e_metin {
+    background-color: #baa8a8;
+    color: #000000;
+    text-align: center;
+    width: 100%;
+    height: 80px;
+    align-content: center;
+    font-size: 30px;
+    margin-top: 130px;
+}
+
+.e_foto6 {
+    width: 100%;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 5px; /* fotolar arasý boþluk */
+    display: flex;
+    object-fit: cover;
+}
+
+    .e_foto6 img {
+        width: 450px;
+        height: 550px;
+        padding-top: 200px;
+        margin: 0px;
+    }
+
+        .e_foto6 img:hover {
+            opacity: 0.8;
+        }
+
+.e_linkler {
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    text-decoration: none;
+}
+
+    .e_linkler button {
+        margin: 100px;
+        margin-left: 50px;
+        padding-top: 0px;
+    }
+
+.e_foto11 {
+    width: 800px;
+    height: 550px;
+    justify-content:left;
+    align-items: center;
+    object-fit: cover; /* Fotoðraflarý kesmeden hizalar */
+    padding-top: 50px;
+    display: flex;
+    gap: 5px;
+    background-color: #f6f6f6;
+    border-radius: 20px;
+    margin: 10px;
+    position: relative;
+}
+
+    .e_foto11 .continue-btn {
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
+        font-size: 16px;
+        color: #000000;
+        text-decoration: none;
+        font-family: Arial, sans-serif;
+        padding: 10px 20px;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+
+    .e_foto11 img {
+        width: 350px;
+        height: 450px;
+        padding-left: 40px;
+    }
+
+.o_metin {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+    .o_metin p {
+        font-size: 17px;
+    }
+
+.o_metin2 {
+    width: 300px;
+    justify-content: center;
+    align-content: center;
+    text-align: left;
+    margin-left: 30px;
+    padding: 0px;
+}
+
+.submenu {
+    display: none;
+    position: relative;
+    top: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 0px;
+    z-index: 1000;
+    border-radius: 5px;
+    margin: 0px;
+}
+
+    .submenu a {
+        color: #ffffff;
+        text-decoration: none;
+        padding: 10px 15px;
+        display: block;
+        border-radius: 2px;
+        transition: background-color 0.3s ease;
+    }
+
+        .submenu a:hover {
+            background-color: #555555;
+        }
+
+.menu1-item:hover .submenu {
+    display: block;
+}
+
+.menu1 ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: #333333; /* Menü arka plan rengi (koyu gri) */
+    display: flex;
+}
+
+    .menu1 ul li {
+        position: relative;
+    }
+
+        .menu1 ul li a {
+            display: block;
+            color: #ffffff;
+            text-decoration: none;
+            padding: 15px 20px;
+            transition: background-color 0.3s ease;
+        }
+
+            .menu1 ul li a:hover {
+                background-color: #555; /* Hover sýrasýnda koyu gri arka plan */
+            }
+
+
+.formbaslik {
+    margin-top: 60px;
+    width: 100%;
+    height: 80px;
+    margin-bottom: 30px;
+}
+
+    .formbaslik h1 {
+        margin-top: 30px;
+        margin-left: 30px;
+        font-size: 30px;
+        color: #276719;
+    }
+
+.zform {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 800px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    margin: 80px auto;
+}
+
+    .form h1 {
+        margin: 20px;
+        font-size: 24px;
+        color: #333333;
+        text-align: center;
+    }
+
+.form-grup {
+    align-items: flex-start;
+    margin-bottom: 15px;
+}
+
+    .form-grup label {
+        margin-bottom: 5px;
+        font-weight: bold;
+        color: #555555;
+    }
+
+    .form-grup input[type="text"],
+    .form-grup input[type="email"] {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        transition: border-color 0.3s ease;
+    }
+
+.form-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+    .form-buttons button {
+        padding: 10px 20px;
+        border: none;
+        text-decoration: none;
+        border-radius: 4px;
+        background-color: #baa8a8;
+        color: #000000;
+        font-size: 16px;
+    }
+
+        .form-buttons button[type="reset"] {
+            background-color: #b81b1b;
+        }
+
+        .form-buttons button:hover {
+            text-decoration: underline;
+        }
+
+        .form-buttons button[type="reset"]:hover {
+            text-decoration: underline;
+        }
+
+.donem_metin {
+    width: 700px;
+    height: 270px;
+    background-color: #f6f6f6;
+    position: relative;
+    border-radius: 15px;
+    
+    padding-left: 10px;
+}
+
+    .donem_metin .continue {
+        position: absolute;
+        bottom: 5px;
+        left: 10px;
+        font-size: 16px;
+        color: #000000;
+        text-decoration: none;
+        font-family: Arial, sans-serif;
+    }
+
+.donem_metin1 {
+    width: 100%;
+    height: 230px;
+    background-color: #f6f6f6;
+    border-radius: 15px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+}
+
+.metin_ozet {
+    display: flex;
+    align-items: flex-start;
+    margin: 20px auto;
+    width: fit-content;
+}
+
+.oyku {
+    width: 800px;
+    height: 650px;
+    background-color: #f6f6f6;
+    margin: 20px auto;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.resim {
+    width: 500px;
+    height: 650px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+blockquote {
+    font: 1.2em/1.6em Georgia, "Times New Roman", Times, serif;
+    width: 400px;
+    padding-left: 15px;
+    text-indent: -18px;
+    margin-top: 90px;
+    border: 3px solid #4b0202;
+    border-radius: 10px;
+}
+
+    blockquote:first-letter {
+        background: url(images/alinti-ac.gif) no-repeat left top;
+        padding-left: 18px;
+        font: italic 1.4em Georgia, "Times New Roman", Times, serif;
+        padding: 5px;
+    }
+
+.donem-alinti {
+    display: flex;
+    justify-content: space-between;  
+}
+
+.alinti-genel {
+    display: flex;
+    justify-content: left;
+    gap: 350px;
+    margin: 10px;
+}
+
+    .alinti-genel img {
+        width: 350px;
+        height: 250px;
+        position: absolute;
+        left: 900px;
+        margin-top: 80px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+    }
+
+.iletisim-formgoster {
+    width: 80%;
+    height: 50vh;
+    background-color: #f6f6f6;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    justify-content: center;
+    align-items: center;
+    display: block;
+    padding-top:60px;
+    margin:150px;
+    gap:10px;
+}
+
+    .iletisim-formgoster p {
+        font-size: 16px;
+        
+        justify-content: center;
+        align-items: center;
+        display: block;
+        text-align:center;
+    }
+
+    
+
+.galeri {
+    height: 300px;
+    width: 100%;
+}
+
+    .galeri img {
+        height: 300px;
+        width: 100%;
+        padding: 10px;
+    }
+
+.galeri1 {
+    width: 500px;
+    height: 350px;
+    display: flex;
+}
+
+    .galeri1 img {
+        width: 500px;
+        height: 350px;
+        padding: 10px;
+    }
+
+.galeri2 {
+    width: 550px;
+    height: 700px;
+    padding-left: 20px;
+}
+
+    .galeri2 img {
+        width: 550px;
+        height: 700px;
+    }
+
+.galeri3 {
+    width: 330px;
+    height: 350px;
+    display: flex;
+}
+
+    .galeri3 img {
+        width: 330px;
+        height: 350px;
+        padding: 10px;
+    }
+
+.altbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    width: 100%;
+    height: 200px;
+    background-color: #e9e9e9;
+    bottom: 0px;
+    box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.1);
+}
+
+    .altbar p {
+        font-size: 16px;
+        font-weight: 300;
+        margin: 0;
+        text-align: center;
+    }
+
+    .altbar img {
+        width: 50px;
+        height: 50px;
+        border-radius:10px;
+    }
+    .altbar img:hover{
+        opacity:0.8;
+    }
+
+.map-genel {
+    width: 20%;
+    height: 150px;
+    border: 2px solid #4b0202;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+    .map-genel iframe {
+        width: 100%;
+        height: 100%;
+        border: none;
+    }
+
+.cezaevi {
+    width: 100%;
+    height: 350px;
+    padding-left: 10px;
+    display: flex;
+    gap: 30px;
+}
+
+    .cezaevi img {
+        width: 385px;
+        height: 350px;
+    }
+
+.evi {
+    width: 100%;
+    height: 350px;
+    padding-left: 10px;
+    display: flex;
+    gap: 50px;
+}
+
+    .evi img {
+        width: 580px;
+        height: 350px;
+    }
+
+.mezar {
+    width: 100%;
+    height: 350px;
+    padding-left: 10px;
+    display: flex;
+    gap: 30px;
+}
+
+    .mezar img {
+        width: 400px;
+        height: 350px;
+    }
+
+.bust {
+    width: 100%;
+    height: 500px;
+}
+
+    .bust img {
+        width: 410px;
+        height: 500px;
+    }

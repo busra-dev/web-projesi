@@ -1,0 +1,20 @@
+﻿<head>
+
+    @{
+        ViewData["Title"] = "Sabahattin Ali - İletişim Formu";
+    }
+  <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    
+    <div class="iletisim-formgoster">
+        <h3 left="10" >Gönderiniz Alınmıştır.</h3>
+      <p>
+        @model formbil
+        <strong>Ad Soyad:</strong> @Model.ad<br />
+        <strong>Konu:</strong> @Model.konu<br />
+        <strong>E-Mail:</strong> @Model.email<br />
+        <strong>İleti:</strong> @Model.ileti <br />
+        </p>      
+    </div>
+</body>

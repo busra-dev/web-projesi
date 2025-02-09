@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Views\Home\iletisim.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Home\kagni.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Home\Oykuler.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Home\ses.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Home\kagni.cshtml" />
+    <None Include="Views\Home\iletisim.cshtml" />
+    <None Include="Views\Home\Oykuler.cshtml" />
+    <None Include="Views\Home\ses.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Views\Home\Oykuler.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Views\Home\iletisim.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Views\Home\kagni.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Views\Home\ses.cshtml" />
+  </ItemGroup>
+
+</Project>

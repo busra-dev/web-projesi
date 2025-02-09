@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    @{
+        ViewData["Title"] = "Sabahattin Ali - Eserleri";
+    }
+  <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="e_metin">Sabahattin Ali'nin yayımlanmış eserleri</div>
+    <div class="e_foto6">
+    <img src="~/image/foto18.jpg" />
+    <img src="~/image/foto6.jpg" />
+    <img src="~/image/foto9.jpg" />
+    <img src="~/image/foto17.jpg" />
+    <img src="~/image/foto10.jpg" /></div>
+    <a asp-controller="Home" asp-action="Oykuler" class="e_linkler"><button>Öykü Kitapları</button></a>
+    <a asp-controller="Home" asp-action="roman" class="e_linkler"><button>Romanları</button></a>
+    <a asp-controller="Home" asp-action="mektup" class="e_linkler"><button>Mektup Kitapları</button></a>
+    <a asp-controller="Home" asp-action="siir" class="e_linkler"><button>Şiirleri</button></a>
+    <a asp-controller="Home" asp-action="tiyatro" class="e_linkler"><button>Tiyatro Eserleri</button></a>
+    </body>
+</html>

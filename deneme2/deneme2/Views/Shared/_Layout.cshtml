@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/deneme2.styles.css" asp-append-version="true" />
+</head>
+<body><div class="ustbar"><h1>SABAHATTİN ALİ</h1>
+
+   <ul class="menu">
+    <li><a asp-area="" asp-controller="Home" asp-action="Index">Ana Sayfa</a></li>
+     <li><a asp-area="" asp-controller="Home" asp-action="biyografi">Biyografi</a></li>
+
+          <div class="menu1">
+        <div class="menu1-item">
+            <li><a asp-area="" asp-controller="Home" asp-action="eserleri">Eserleri</a></li>
+            <div class="submenu">
+                <a href="@Url.Action("mektup","Home")">Mektup Kitapları</a>
+                <a href="@Url.Action("tiyatro","Home")">Tiyatro Eserleri</a>  
+                <a href="@Url.Action("Oykuler","Home")">Öykü Kitapları</a>             
+                <a href="@Url.Action("roman","Home")">Romanları</a>
+                <a href="@Url.Action("siir","Home")">Şiirleri</a>
+                
+            </div>
+        </div>
+        </div>
+       <li><a asp-area="" asp-controller="Home" asp-action="galeri">Galeri</a></li>
+        <li><a asp-area="" asp-controller="Home" asp-action="alinti">Alıntıları</a></li>
+        <div class="menu1">
+        <div class="menu1-item">
+        <li><a asp-area="" asp-controller="Home" asp-action="etki">Dönem ve Etkileri</a></li>
+         <div class="submenu">
+                <a href="@Url.Action("cumhuriyet","Home")">Cumhuriyet Dönemi Edebiyatındaki Yeri</a>             
+                <a href="@Url.Action("dön_yansima","Home")">Yazarın Eserlerinde Dönemsel Yansımalar</a>
+                <a href="@Url.Action("tr_modern_edb","Home")">Modern Türk Edebiyatındaki Yeri</a>
+                <a href="@Url.Action("tr_edb","Home")">Türk Edebiyatına Katkıları</a>              
+                <a href="@Url.Action("edblar","Home")">Yazarların Gözünden</a>
+            </div>
+        </div>
+        </div>
+         <li><a asp-area="" asp-controller="Home" asp-action="iletisim">İletişim</a></li>        
+</ul>
+</div>
+    
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+       
+        <div class="altbar"><p>2024-2025 | Sabahattin Ali biyografi sitesidir.<br />
+           E-POSTA:<a href="mailto:busrashn.432@gmail.com"> busrashn.432@gmail.com</a><br />
+           TELEFON: 416 251 4512</p>
+        
+             <div class="map-genel">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d6393293.800925745!2d27.33333307531706!3d38.517041531991914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d37.745123899999996!2d38.2216483!4m5!1s0x14b0c83730000001%3A0xabab5d9039588318!2ssabahattin%20ali&#39;nin%20evi%20nerede!3m2!1d39.5972728!2d27.021286!5e0!3m2!1str!2str!4v1737187211499!5m2!1str!2str" width="600" height="450" style="border:0;" 
+        allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> </div>
+        <a href="https://www.youtube.com/channel/UCl-fGzH4SRN2JsrFhGLns_g"><img src="~/image/youtube.jpg" /></a><a href="https://www.instagram.com/_.busrasahin._?utm_source=qr&igsh=MXh2Nm5hNTdnNzI2eQ=="><img src="~/image/instagram.jpg" /></a>
+        <a href="https://www.linkedin.com/in/b%C3%BC%C5%9Fra-%C5%9Fahin-151596257/"><img src="~/image/linkedin.jpg" /></a>
+    </div>
+    </footer>
+</body>
+</html>
